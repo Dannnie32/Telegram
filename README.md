@@ -1,3 +1,2 @@
 # Telegram
-title: telegram homepage
-description: Welcom to telegram account 
+Welcom to telegram account
